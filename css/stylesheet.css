@@ -1,0 +1,23 @@
+/*
+.contact_form {
+
+} */
+
+.contact_form h1, .contact_form label {
+    /* font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace; 
+    */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.notification {
+    color: #fa0707;
+    display: block;
+}
+
+.contact_form label {
+    font-weight: bold;
+    margin-top: 5px;
+    padding: 3px;
+    display: inline-block;
+}
